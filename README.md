@@ -122,7 +122,8 @@
    - 强调中国古代炼丹特色（如加入“五行”元素）。
 4. **团队协作**：
    - 使用GitHub进行代码管理，每日更新进度。
-
+## 相关链接
+   - https://developer.unity.cn/projects/5e5a6348edbc2a2fcabae21b 【UnityTips】一种仿 Minecraft 物品合成的思路
 ---
 
 ## 初期任务清单
